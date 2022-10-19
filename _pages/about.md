@@ -25,10 +25,10 @@ For biomedical analysis, I would like research for need of real medical scenes
 
 
 # Education
-2016-2020 major in information security at central university of fianance and economy(CUFE)
+Central university of finance and economy (CUFE) Aug 2016 - June 2020
 
 
-2020-2023 biomedical and machine learning at chinese academy school
+Chinese academy of science (CAS) Aug 2020 - May 2023 
 
 
 # Research
