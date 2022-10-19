@@ -19,10 +19,11 @@ redirect_from:
 
 I am a master student in shenzhen istitute of advanced technology, Chiese academy school. before that, I got my bachor degree from central university of finance and economy. 
 Now, I major instest in two areas.
-**high dimesion data learning**
-and biomedical data analysis.
-For high dimension data learning, where I am itersted in build a simple, cotroling, robust, and efficient system which would learning good representation of data, and than reconstruct and create new data based on what you have learn.
-For biomedical analysis, I would like research for need of real medical scenes
+
+**High dimesion data learning**. I am intersted in build a simple, controlled, robust, and efficient system, which would learn good representation, besides, reconstruct and generate new based on what have been learned
+
+**Biomedical data analysis**. I tend you build on a interplate model and system face to real need, asssitant medical decision
+
 
 
 
