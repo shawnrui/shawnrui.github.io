@@ -34,6 +34,6 @@ Central university of finance and economy (CUFE) Aug 2016 - June 2020
 Chinese academy of science (CAS) Aug 2020 - May 2023 
 
 
-# Research
+# Publication and preprints
 ![avatar](../images/coa.jpg){:height="25%" width="25%"}      Cooperative adversarial learning Via Closed-loop transcription
 
