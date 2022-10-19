@@ -32,5 +32,5 @@ Chinese academy of science (CAS) Aug 2020 - May 2023
 
 
 # Research
-![avatar](../images/CTRL12.jpg){:height="50%" width="50%"}      Cooperative adversarial learning Via Closed-loop transcription
+![avatar](../images/coa.jpg){:height="50%" width="50%"}      Cooperative adversarial learning Via Closed-loop transcription
 
