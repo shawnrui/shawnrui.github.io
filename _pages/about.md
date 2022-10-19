@@ -32,5 +32,5 @@ For biomedical analysis, I would like research for need of real medical scenes
 
 
 # Research
-![avatar](../images/CTRL12.jpg){:height="5%" width="5%"}       Cooperative adversarial learning Via Closed-loop transcription
+![avatar](../images/CTRL12.jpg){:height="100px" width="400px"}       Cooperative adversarial learning Via Closed-loop transcription
 
