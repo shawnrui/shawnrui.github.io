@@ -35,5 +35,5 @@ Chinese academy of science (CAS) Aug 2020 - May 2023
 
 
 # Publication and preprints
-![avatar](../images/coa.jpg){:height="25%" width="25%"}      Cooperative adversarial learning Via Closed-loop transcription
+![avatar](../images/coa.jpg){:height="25%" width="25%"}      Cooperative adversarial learning Via Closed-loop transcription **ruixiao** xinyu zhao (under review)
 
